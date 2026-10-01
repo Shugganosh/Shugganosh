@@ -2,9 +2,6 @@
 
 Systems architecture, evidence-controlled software, technical research, AI-integrated workflows, and film/media strategy.
 
-Repository policy: public claims follow reproducible source, provenance, and explicit validation. Proprietary or IP-sensitive work remains private until disclosure and licensing gates are deliberately cleared.
+Public repositories contain only material deliberately cleared for public release. Proprietary research, client work, internal methods, unpublished source material, operating records, case libraries, benchmarks, commercial strategy, and private implementation repositories are not represented here unless separately released under explicit terms.
 
-## Repository architecture
-- **UUX-Engine** — evidence-first discovery and execution architecture.
-- **Dual-Cortex / Brigantia** — private simulation-oriented dispatch architecture.
-- Additional technical repositories are released only after source, validation, licensing, and publication boundaries are controlled.
+Public claims follow reproducible sources, provenance, and explicit validation boundaries.
