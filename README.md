@@ -5,3 +5,7 @@ Systems architecture, evidence-controlled software, technical research, AI-integ
 Public repositories contain only material deliberately cleared for public release. Proprietary research, client work, internal methods, unpublished source material, operating records, case libraries, benchmarks, commercial strategy, and private implementation repositories are not represented here unless separately released under explicit terms.
 
 Public claims follow reproducible sources, provenance, and explicit validation boundaries.
+
+## Published writing
+
+- Joshua W.J. Brown, “[Reconstructing Galatia Without a Native Text](https://popular-archaeology.com/article/reconstructing-galatia-without-a-native-text/)” — *Popular Archaeology*, October 15, 2026. Subtitle: “What the Celts of Central Anatolia Left Behind.”
